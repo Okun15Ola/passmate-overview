@@ -23,7 +23,31 @@ PassMate grounds its tutor in real exam content, runs practice sessions that mir
 
 ## Screenshots
 
-<!-- docs/screenshots: dashboard, tutor answering a question, CBT session, session review -->
+**AI tutor.** Ask a clinical question and get a structured, exam focused answer. The banner confirms the tutor is grounded in real NMCN past papers.
+
+![AI tutor chat](docs/screenshots/02-ai-tutor-chat.png)
+
+**CBT practice.** Structured courses and free practice, drawn from real past questions. Questions from real papers are labelled with their year.
+
+![CBT practice mode](docs/screenshots/03-cbt-practice-mode.png)
+
+![Real past question in CBT mode](docs/screenshots/04-cbt-real-past-question.png)
+
+**Session review.** Deterministic scoring, then a full walkthrough of every question with the correct answer and an explanation.
+
+![Session results](docs/screenshots/05-session-results.png)
+
+![Session review with explanation](docs/screenshots/06-session-review-explanation.png)
+
+**Session to chat handoff.** The student can carry the exact questions they missed into the tutor and work through them.
+
+![Session to chat handoff](docs/screenshots/07-session-to-chat-handoff.png)
+
+**Landing pages.** [passmate.ng](https://passmate.ng) for NMCN and [nclex.passmate.ng](https://nclex.passmate.ng) for NCLEX.
+
+![NMCN landing page](docs/screenshots/01-nmcn-landing.png)
+
+![NCLEX landing page](docs/screenshots/08-nclex-landing.png)
 
 ## Features
 
